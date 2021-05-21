@@ -10,3 +10,5 @@ db.counters.insert({"_id": "counter"})
 ```
 
 Hope this helps <3
+
+NOT PROVIDING SUPPORT FOR THIS
